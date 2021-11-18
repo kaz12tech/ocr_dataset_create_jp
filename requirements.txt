@@ -1,0 +1,5 @@
+jupyter
+pandas
+pillow
+matplotlib
+opencv-python==4.5.1.*

@@ -1,0 +1,7 @@
+__pycache__/
+data/ETL7.zip
+data/ETL8B.zip
+output/ETL7
+output/ETL8B
+output/etl7.pickle
+output/etl8B.pickle
