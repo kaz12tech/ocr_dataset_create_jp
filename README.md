@@ -13,7 +13,11 @@ http://etlcdb.db.aist.go.jp/download-request?lang=ja
 メールにダウンロードリンクが記載されている  
 リンクからETL7.zipとETL8B.zipをダウンロードし/dataに配置してください  
 
-# 文字コード表
+## 文字コード表
 /dataに置かれている文字コード表は下記から取得できます  
 $ wget http://ash.jp/ash/src/codetbl/jis0201.txt  
 $ wget http://ash.jp/ash/src/codetbl/jis0208.txt  
+
+# 学習データ生成方法
+dataset_creater.ipynbを開き2番目のセルにパスを指定  
+「全てを実行」でDEFAULT_DESTに生成した学習データが出力されます
