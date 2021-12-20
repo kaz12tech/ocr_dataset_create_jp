@@ -4,7 +4,7 @@ $ conda activate dataset_create
 $ cd dataset_create  
 $ mkdir workspace && cd workspace  
 $ git clone https://github.com/kaz12tech/ocr_dataset_create_jp.git  
-$ cd ocr_dataset_creator_jp  
+$ cd ocr_dataset_create_jp/  
 $ pip3 install -r requirements.txt  
 
 ## ETL文字データベースダウンロード手順
